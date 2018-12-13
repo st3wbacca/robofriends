@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://st3wbacca.github.io/robofriends/"
+  "homepage": "https://st3wbacca.github.io/robofriends/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
