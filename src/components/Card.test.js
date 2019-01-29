@@ -1,7 +1,7 @@
 import { shallow } from 'enzyme';
+import '../setupTests';
 import React from 'react';
 import Card from './Card';
-import '../setupTests';
 
 it('expect to render Card component', () => {
 	expect.assertions(2);

@@ -1,6 +1,6 @@
 import { shallow } from 'enzyme';
-import React from 'react';
 import '../setupTests';
+import React from 'react';
 import Scroll from './Scroll';
 
 it('expect Scroll to match Snapshot', () => {

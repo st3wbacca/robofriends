@@ -1,7 +1,7 @@
 import { shallow } from 'enzyme';
+import '../setupTests';
 import React from 'react';
 import ErrorBoundary from './ErrorBoundary';
-import '../setupTests';
 
 it('expect ErrorBoundary to match Snapshot', () => {
 	expect.assertions(2);

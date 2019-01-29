@@ -1,6 +1,6 @@
 import { shallow } from 'enzyme';
-import React from 'react';
 import '../setupTests';
+import React from 'react';
 import SearchBox from './SearchBox';
 
 it('expect SearchBox to match Snapshop', () => {
